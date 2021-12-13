@@ -1,3 +1,3 @@
 # Daniel Kuhman
 
-### BUY BTC.
+### BUY AND HODL BTC. HOLD YOUR KEYS. 
