@@ -1,3 +1,3 @@
 # Daniel Kuhman
 
-### BUY AND HODL BTC.
+### Create stuff + buy BTC.
