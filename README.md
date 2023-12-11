@@ -1,5 +1,5 @@
 # Daniel Kuhman
 
-Data Scientist / Business Intelligence 
+work hard; build cool stuff
 
 ⚡ ⚡ ⚡
