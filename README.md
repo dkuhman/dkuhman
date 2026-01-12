@@ -10,6 +10,8 @@ work hard; build cool stuff
 
 [Silk Pyjamas](https://silkpyjamas.vip): An exciting new fantsay MMA game!
 
+The Work App: Finding high quality, affordable labor for home repairs shouldn't be complicated. The Work App is here to help. Coming soon!
+
 Grappling Nomads: Looking for a place to train while you travel? Grappling Nomads has you covered! Find jiujitsu gyms and connect with fellow grapplers while you're on the road. Coming soon!
 
 Pound4Pound: Creating a better system for fighter rankings in MMA. Coming soon!
