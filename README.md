@@ -6,7 +6,7 @@ work hard; build cool stuff
 
 ### Current Projects:
 
-[Crowd Card](https://crowdcard.xyz): Judging in sports is broken - Crowd Card is a platform that crowdsources event judging in MMA, grappling, gymnastics, figure skating, and much more. Available on the [web](https://app.crowdcard.xyz) and for [iOS](https://apps.apple.com/us/app/crowd-card/id6746776973) now!
+[Crowd Card](https://crowdcard.xyz): Judging in sports is broken - Crowd Card is a platform that crowdsources judging in MMA, grappling, and other combat sports. Available on the [web](https://app.crowdcard.xyz) and for [iOS](https://apps.apple.com/us/app/crowd-card/id6746776973) now!
 
 [MMA Refology](https://refologyhq.com): Tracking and documenting stoppage rates, deduction tendencies, and fight-by-fight history for every referee in the UFC.
 
