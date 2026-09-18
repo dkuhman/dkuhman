@@ -12,6 +12,4 @@ work hard; build cool stuff
 
 [Silk Pyjamas](https://silkpyjamas.vip): An exciting new fantsay MMA game!
 
-[The Work App](https://www.theworkapp.net): Creating a simple platfrom that connects subcontractors and contractors to improve transparency in job bidding 
-
-Pound4Pound: Creating a better system for fighter rankings in MMA. Coming soon!
+[The Work App](https://www.theworkapp.net): Creating a simple platfrom that connects subcontractors and contractors to improve transparency in job bidding.
