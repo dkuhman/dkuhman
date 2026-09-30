@@ -4,6 +4,10 @@ work hard; build cool stuff
 
 ⚡ ⚡ ⚡
 
+### Writing:
+
+[dkbuilds](https://www.dkbuilds.me/): where I write about things I think are interesting. 
+
 ### Current Projects:
 
 [Crowd Card](https://crowdcard.xyz): Judging in sports is broken - Crowd Card is a platform that crowdsources judging in MMA, grappling, and other combat sports. Available on the [web](https://app.crowdcard.xyz) and for [iOS](https://apps.apple.com/us/app/crowd-card/id6746776973) now!
